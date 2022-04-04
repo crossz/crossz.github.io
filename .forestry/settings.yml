@@ -4,13 +4,13 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: heading
+  label: heading
 - type: directory
   path: gatsby
   label: dir
   create: all
   match: "**/*"
-- type: heading
-  label: heading
 - type: document
   path: docs
   label: docs
