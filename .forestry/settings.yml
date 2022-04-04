@@ -12,8 +12,8 @@ sections:
 - type: heading
   label: heading
 - type: document
-  path: github-page
-  label: gh-page
+  path: docs
+  label: docs
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
