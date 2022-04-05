@@ -16,3 +16,5 @@ fields:
     schema:
       format: markdown
   label: body
+pages:
+- gatsby/post1.md
