@@ -26,5 +26,6 @@ fields:
     maxSize: 64
   label: image field
 pages:
+- gatsby/new directory/post3.md
 - gatsby/post1.md
 - gatsby/post2.md
