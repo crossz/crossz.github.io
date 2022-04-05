@@ -27,3 +27,4 @@ fields:
   label: image field
 pages:
 - gatsby/post1.md
+- gatsby/post2.md
