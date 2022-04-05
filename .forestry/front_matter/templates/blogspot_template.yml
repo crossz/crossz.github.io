@@ -16,5 +16,14 @@ fields:
     schema:
       format: markdown
   label: body
+- name: tag_field
+  type: tag_list
+  default: []
+  label: tag field
+- name: image_field
+  type: file
+  config:
+    maxSize: 64
+  label: image field
 pages:
 - gatsby/post1.md
