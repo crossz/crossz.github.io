@@ -5,6 +5,8 @@ admin_path:
 webhook_url: 
 sections:
 - type: heading
+  label: heading2
+- type: heading
   label: heading
 - type: directory
   path: gatsby
